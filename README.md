@@ -17,3 +17,5 @@ The player must remember and repeat the color sequence shown by the game.
 
 ## 🎯 Purpose
 This project was built to strengthen JavaScript logic, DOM manipulation, and event handling skills.
+
+Live: https://saigiri95.github.io/SIMSONS/
